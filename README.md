@@ -1,7 +1,7 @@
 Exiting Loops
 ---
 
-## Objectives
+## Objective
 
 1. Explain when to `break` out of a loop
 2. Explain when to `continue` in a loop
